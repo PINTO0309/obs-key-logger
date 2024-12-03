@@ -31,3 +31,12 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
 ## 2. Result
 
 https://github.com/user-attachments/assets/624f8dcf-a362-4de1-a6e7-778c104179dc
+
+## 3. Executable file
+
+```bash
+# Windows / Ubuntu
+pyinstaller --onefile obs-key-logger.py
+# Ubuntu
+chmod +x dist/obs-key-logger
+```
