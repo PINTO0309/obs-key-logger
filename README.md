@@ -28,6 +28,8 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
   # Required
   # Windows / Ubuntu
   pip install pynput==1.7.7 obs-websocket-py==1.0 pyinstaller==6.11.1
+  or
+  pip install pynput==1.7.7 obs-websocket-py==1.0 PyInstaller
   # Windows
   https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe
   # Ubuntu
