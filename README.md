@@ -19,3 +19,7 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
   sudo dpkg -i obs-websocket-4.9.1-compat-Ubuntu64.deb
   pip install pynput==1.7.7 obs-websocket-py==1.0
   ```
+
+## 2. Result
+
+https://github.com/user-attachments/assets/624f8dcf-a362-4de1-a6e7-778c104179dc
