@@ -57,5 +57,6 @@ pyinstaller --onefile obs-key-logger.py
 chmod +x dist/obs-key-logger
 
 # Windows + C#
+cd csharp-obs-key-logger
 dotnet build -c Realease
 ```
