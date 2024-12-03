@@ -1,3 +1,6 @@
 *_key_log.txt
 build/
 dist/
+
+csharp-obs-key-logger/bin/
+csharp-obs-key-logger/obj/
