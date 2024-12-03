@@ -35,6 +35,12 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
   sudo dpkg -i obs-websocket-4.9.1-compat-Ubuntu64.deb
   ```
 
+- OBS settings
+
+  ![スクリーンショット 2024-12-03 111933](https://github.com/user-attachments/assets/42a56116-46f7-479b-94ac-2830f3a3dc0e)
+
+  ![スクリーンショット 2024-12-03 111811](https://github.com/user-attachments/assets/a514478e-63cf-401e-86b5-02b345c15863)
+
 ## 2. Result
 
 https://github.com/user-attachments/assets/624f8dcf-a362-4de1-a6e7-778c104179dc
