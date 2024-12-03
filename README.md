@@ -51,8 +51,11 @@ https://github.com/user-attachments/assets/624f8dcf-a362-4de1-a6e7-778c104179dc
 ## 3. Executable file
 
 ```bash
-# Windows / Ubuntu
+# Windows / Ubuntu + Python
 pyinstaller --onefile obs-key-logger.py
 # Ubuntu
 chmod +x dist/obs-key-logger
+
+# Windows + C#
+dotnet build -c Realease
 ```
