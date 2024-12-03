@@ -19,13 +19,20 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
 
   ```bash
   # Optional
+  # Windows
+  https://github.com/univrsal/input-overlay/releases/download/5.0.6/input-overlay-5.0.6-windows-x64-Installer.exe
+  # Ubuntu
   wget https://github.com/univrsal/input-overlay/releases/download/5.0.6/input-overlay-5.0.6-x86_64-linux-gnu.deb
   sudo dpkg -i input-overlay-5.0.6-x86_64-linux-gnu.deb
 
   # Required
+  # Windows / Ubuntu
+  pip install pynput==1.7.7 obs-websocket-py==1.0 pyinstaller==6.11.1
+  # Windows
+  https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Qt6-Windows-Installer.exe
+  # Ubuntu
   wget https://github.com/obsproject/obs-websocket/releases/download/4.9.1-compat/obs-websocket-4.9.1-compat-Ubuntu64.deb
   sudo dpkg -i obs-websocket-4.9.1-compat-Ubuntu64.deb
-  pip install pynput==1.7.7 obs-websocket-py==1.0 pyinstaller==6.11.1
   ```
 
 ## 2. Result
