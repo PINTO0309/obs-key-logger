@@ -12,7 +12,7 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
 7. pydub==0.25.1
 8. audioop-lts==0.2.1
 9. ffmpeg==1.4
-10. (Windows only) [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z)
+10. (Windows only) [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z) Set `Path` to `bin` in the folder where 7z was extracted.
 11. ffprobe==0.5
 12. [dotnet 8.0.404](https://learn.microsoft.com/ja-jp/dotnet/core/install/windows#install-with-visual-studio-code) (optional)
 
