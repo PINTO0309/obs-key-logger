@@ -8,7 +8,8 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
 3. pynput==1.7.7
 4. obs-websocket-py==1.0
 5. pyinstaller==6.11.1
-6. [dotnet 8.0.404](https://learn.microsoft.com/ja-jp/dotnet/core/install/windows#install-with-visual-studio-code) (optional)
+6. simpleaudio==1.0.4
+7. [dotnet 8.0.404](https://learn.microsoft.com/ja-jp/dotnet/core/install/windows#install-with-visual-studio-code) (optional)
 
 ## 1. Environment setting
 
