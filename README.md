@@ -53,8 +53,10 @@ https://github.com/user-attachments/assets/624f8dcf-a362-4de1-a6e7-778c104179dc
 ```bash
 # Windows / Ubuntu + Python
 pyinstaller --onefile obs-key-logger.py
+pyinstaller --onefile mp4-key-logger.py
 # Ubuntu
-chmod +x dist/obs-key-logger
+sudo chmod +x dist/obs-key-logger
+sudo chmod +x dist/mp4-key-logger
 
 # Windows + C#
 cd csharp-obs-key-logger
