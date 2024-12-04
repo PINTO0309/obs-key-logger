@@ -9,7 +9,7 @@ import os
 class MP4PlayerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("MP4 Player")
+        self.root.title("MP4 Player + Logger")
         self.is_playing = False
         self.log_file_path = ""
         self.video_thread = None
@@ -118,7 +118,7 @@ class MP4PlayerApp:
             else:
                 self.current_key = ""  # 2秒経過したら表示を消去
 
-            cv2.imshow("MP4 Player", frame)
+            cv2.imshow("MP4 Player + Logger", frame)
 
             # フレーム間の待機とキー入力検出
             key = cv2.waitKey(frame_time) & 0xFF
