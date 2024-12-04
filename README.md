@@ -11,7 +11,9 @@ Linking OBS and Python code, the values entered on the keyboard are simply recor
 6. simpleaudio==1.0.4
 7. pydub==0.25.1
 8. audioop-lts==0.2.1
-9. [dotnet 8.0.404](https://learn.microsoft.com/ja-jp/dotnet/core/install/windows#install-with-visual-studio-code) (optional)
+9. ffmpeg==1.4
+10. ffprobe==0.5
+11. [dotnet 8.0.404](https://learn.microsoft.com/ja-jp/dotnet/core/install/windows#install-with-visual-studio-code) (optional)
 
 ## 1. Environment setting
 
