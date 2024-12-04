@@ -56,6 +56,8 @@ https://github.com/user-attachments/assets/624f8dcf-a362-4de1-a6e7-778c104179dc
 
 ## 3. Executable file
 
+https://github.com/PINTO0309/obs-key-logger/releases/tag/exe
+
 ```bash
 # Windows / Ubuntu + Python
 pyinstaller --onefile obs-key-logger.py
